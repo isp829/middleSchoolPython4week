@@ -652,6 +652,7 @@ def drawObject(obj, x, y):#스프라이트 그리기 함수
 
 def explode():#운석이랑 충돌
     pygame.display.update()
+
     sleep(3)
     runGame()
 
